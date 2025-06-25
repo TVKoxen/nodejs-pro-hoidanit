@@ -27,10 +27,7 @@
     "express",
     "mongodb"
   ],
-  "author": {
-    "name": "Trần Thanh Nguyên",
-    "email": "nguyenthanhtran01@gmail.com"
-  },
+  "author": "Thanh Nguyen Tran <nguyenthanhtran01@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/TVKoxen/nodejs-pro-hoidanit/issues"
